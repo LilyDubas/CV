@@ -127,6 +127,12 @@ header,
   height: 2rem;
   margin-left: 35%;
 }
+@media (max-width: 767.98px) {
+  #love{
+    width: 60%;
+    margin-left: 20%;
+  }
+}
 #contact{
-  width:50%;
+  width:100%;
 }
