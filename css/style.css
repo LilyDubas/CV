@@ -134,5 +134,10 @@ header,
   }
 }
 #contact{
-  width:100%;
+  width:60%;
+}
+@media (max-width: 767.98px) {
+  #contact{
+    width: 100%;
+  }
 }
