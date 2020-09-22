@@ -16,7 +16,9 @@
         background-color: #4285F4;
     }
 }
-
+html, body {
+  scroll-behavior: smooth;
+}
 html,
 body,
 header,
